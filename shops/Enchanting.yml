@@ -123,7 +123,7 @@ pages:
         - LURE:3
       '21':
         material: ENCHANTED_BOOK
-        buy: 160
+        buy: 800
         sell: 40
         enchantments:
         - MENDING:1
