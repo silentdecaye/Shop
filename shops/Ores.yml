@@ -32,7 +32,7 @@ pages:
       '8':
         material: COPPER_ORE
         buy: 15
-        sell: -1
+        sell: 0.05
       '9':
         material: DIAMOND
         buy: 52.5
